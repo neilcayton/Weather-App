@@ -97,7 +97,12 @@ body{
     margin-right: 10px;
 }
 
+
 .humidity, .wind {
      font-size: 28px;
      margin-top: 26px;
+}
+
+.weather{
+    display: none;
 }
